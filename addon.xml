@@ -6,6 +6,7 @@
   <requires>
     <import addon="xbmc.python" version="3.0.0"/>
     <import addon="script.module.libmediathek4" version="0.0.1"/>
+    <import addon="script.module.requests"/>
   </requires>
   <extension point="xbmc.python.module" library="lib" />
   <extension point="xbmc.addon.metadata">
